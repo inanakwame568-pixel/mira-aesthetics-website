@@ -20,7 +20,7 @@ export default function Footer() {
         </nav>
 
         <div className="footer__social">
-          <a href={`https://www.instagram.com/miras.aesthetics.spa/`} target="miras.aesthetics.spa/" rel="www.instagram.com/miras.aesthetics.spa/">
+          <a href={`https://instagram.com/miras.aesthetics.spa/`} target="miras.aesthetics" rel="https://instagram.com/miras.aesthetics.spa/">
             {business.instagram}
           </a>
         </div>

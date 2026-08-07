@@ -13,7 +13,7 @@ export const business = {
   shortName: 'Mira\u2019s',
   tagline: 'Your Glow Sanctuary',
   city: 'Accra, Ghana',
-  address: '40-42 S Boundary Rd, Tema, Greater Accra Region, Ghana',
+  address: 'S Boundary Rd, Tema, Greater Accra Region, Ghana',
   phone: '0303407423 - 0272162722',
   email: 'mirasaestheticspa@gmail.com',
   instagram: 'https://www.instagram.com/miras.aesthetics.spa/',
@@ -21,7 +21,7 @@ export const business = {
   hours: [
     { days: 'Monday – Friday', time: '7:00 AM – 7:00 PM' },
     { days: 'Saturday', time: '7:00 AM – 7:00 PM' },
-    { days: 'Sunday', time: ' 12 Noon - 7:00 PM' },
+    { days: 'Sunday', time: '12 Noon - 7:00 PM' },
   ],
   mapEmbedUrl:
     'https://www.google.com/maps?q=5.6508169,-0.0698782&z=16&output=embed',
@@ -36,7 +36,7 @@ export const nav = [
 ]
 
 export const hero = {
-  eyebrow: 'Mira\u2019s Aesthetics Spa · Accra',
+  eyebrow: 'Medical Aesthetics · Accra',
   headline: 'Skin care, guided by medicine and made for you.',
   sub: 'Mira\u2019s blends medically-supervised treatments with an unhurried spa experience — so every visit leaves you looking, and feeling, more like yourself.',
   ctaPrimary: { label: 'Book a Consultation', href: '#contact' },
@@ -156,14 +156,14 @@ export const testimonials = {
     {
       quote:
         'I visited for a facial, eyebrow treatment, and a pedicure before a big weekend event, and I am obsessed with the results. My skin was glowing for days, and my brows have never looked so clean and well-shaped. The staff paid such close attention to detail and made sure I was comfortable the entire time. If you’re looking for top-tier pampering and real results, this is the place to go!',
-      name: 'Samantha R.',
+      name: 'Claire B.',
       detail: 'Facial, Eyebrow Treatment, Pedicure',
     },
     {
       quote:
-        'Hands down the best massage and spa experience I’ve ever had! The staff is professional, the space is so peaceful, and I left feeling like a whole new person. Already planning my next visit!',
-      name: 'Hannah K.',
-      detail: 'Body Massage',
+        'I booked a full pamper day here last weekend—a sauna session, body scrub, and a full-body massage—and it was easily the best self-care decision I’ve made all year. From the moment I walked in, the atmosphere was serene, spotless, and incredibly welcoming. The therapist was so attentive and worked out every bit of tension in my shoulders. My skin feels silky smooth after the body polish, and I walked out feeling completely recharged. 10/10—I’ll definitely be making this a regular routine!',
+      name: 'Samantha R.',
+      detail: 'Sauna, Body Scrub, Full-Body Massage',
     },
   ],
 }
